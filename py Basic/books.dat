@@ -1,0 +1,22 @@
+[
+    {
+        "id": "23",
+        "name": "okoj",
+        "description": "hfghmhdf",
+        "isbn": "6575et-8888",
+        "page_count": "78",
+        "issued": true,
+        "author": "oklju",
+        "year": 2012
+    },
+    {
+        "id": "11",
+        "name": "okij",
+        "description": "ersthgfgf",
+        "isbn": "234-897-9876-09",
+        "page_count": "67",
+        "issued": false,
+        "author": "okjih",
+        "year": 2098
+    }
+]

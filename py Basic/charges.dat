@@ -1,0 +1,30 @@
+[
+          {
+                    "id": "04",
+                    "name": "ojo",
+                    "description": "andriod",
+                    "device_name": "infinix s5",
+                    "payment": false
+          },
+          {
+                    "id": "05",
+                    "name": "omotuwa",
+                    "description": "samsang",
+                    "device_name": "andriod s4",
+                    "payment": true
+          },
+          {
+                    "id": "06",
+                    "name": "big",
+                    "description": "battery",
+                    "device_name": "phone battery",
+                    "payment": false
+          },
+          {
+                    "id": "07",
+                    "name": "big2",
+                    "description": "vivo battery",
+                    "device_name": "battery vivo",
+                    "payment": true
+          }
+]
